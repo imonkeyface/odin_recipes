@@ -1,0 +1,30 @@
+.brocpic,
+.pomosauce,
+.fajpic{
+    height:auto;
+    width: 300px;
+}
+
+.backcolor{
+    background-color: rgb(97, 177, 151);
+}
+
+.list{
+    font-weight:600;
+    font-size: 25px;
+    
+}
+
+.headers{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.text{
+    font-size: 30px;
+}
+
+.text,
+.list{
+    color:rgb(55, 48, 88);
+}
